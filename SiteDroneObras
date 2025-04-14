@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Filmagens com drone para acompanhamento de obras. Transparência e credibilidade para construtoras, engenheiros e investidores.">
+  <meta name="robots" content="index, follow">
+  <title>Cantagalo Drone | Filmagens para Obras</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #121212;
+      color: #fff;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    img.logo {
+      max-width: 160px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+    p.subtitulo {
+      font-size: 16px;
+      color: #ccc;
+      margin-bottom: 30px;
+    }
+    a.botao {
+      display: block;
+      background-color: #25D366;
+      color: white;
+      text-decoration: none;
+      padding: 14px 20px;
+      margin: 10px auto;
+      width: 90%;
+      max-width: 400px;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    }
+    a.botao:hover {
+      background-color: #1ebe5b;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <img src="logo.png" alt="Cantagalo Drone" class="logo">
+  <h1>Cantagalo Drone</h1>
+  <p class="subtitulo">Filmagens aéreas profissionais para acompanhamento de obras</p>
+
+  <a href="https://drive.google.com/file/d/1sI3MoH66TB1pF9sxc1kXOu_h543ofcr2/view" class="botao" target="_blank">📥 Pacotes de Serviços</a>
+  <a href="https://drive.google.com/file/d/19RQuMloTCuPeFTwslokBNgAdE4n3-sHX/view" class="botao" target="_blank">🎥 Vídeo de Exemplo</a>
+  <a href="https://drive.google.com/file/d/1Qtb2CYPaNpTp-nhPtRKxUaN_k8zjFygR/view" class="botao" target="_blank">🎥 Acompanhamento Completo</a>
+  <a href="https://wa.me/5511942221028" class="botao" target="_blank">📲 Fale no WhatsApp</a>
+  <a href="mailto:gustavorotatori@gmail.com" class="botao" target="_blank">✉️ Enviar um E-mail</a>
+
+  <footer>
+    © 2025 Cantagalo Drone – Todos os direitos reservados<br>
+    contato@droneobras.com.br
+  </footer>
+</body>
+</html>
